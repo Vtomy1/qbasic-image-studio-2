@@ -1,0 +1,6 @@
+{
+  "name": "QBasic BSAVE Converter & Generator",
+  "description": "Convert images to QBasic BSAVE format (1-bit, 2-bit, 4-bit, 8-bit) with Floyd-Steinberg, Atkinson, and Bayer dithering, hex inspection, and copy-pasteable QBasic saver and loader code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
